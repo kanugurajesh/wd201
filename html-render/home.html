@@ -1,0 +1,12 @@
+<!-- home.html -->
+<!DOCTYPE html>
+<html>
+<head>
+   <meta charset="UTF-8">
+   <title>My Application</title>
+</head>
+<body>
+   <h1>My Application Home</h1>
+   <a href="./project">Projects</a>
+</body>
+</html>
