@@ -1,0 +1,3 @@
+node_modules
+# exclude all the node_modules directories in the each subdirectory
+**/node_modules
